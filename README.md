@@ -2,7 +2,7 @@
 <br>
 Setting the 2 accounts.
 <img src="Execution/Set up acc.PNG">
-
+</br>
 Depositing 20 ETH in Wei.
 <img src="Execution/deposit 20 wei.PNG">
 
